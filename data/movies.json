@@ -1,0 +1,604 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "release_date": "1994-09-23",
+      "director": "Frank Darabont"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "release_date": "1972-03-24",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 3,
+      "title": "Pulp Fiction",
+      "release_date": "1994-10-14",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "release_date": "2008-07-18",
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 5,
+      "title": "Schindler's List",
+      "release_date": "1993-12-15",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "release_date": "1994-07-06",
+      "director": "Robert Zemeckis"
+    },
+    {
+      "id": 7,
+      "title": "Inception",
+      "release_date": "2010-07-16",
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "release_date": "1999-03-31",
+      "director": "Lana and Lilly Wachowski"
+    },
+    {
+      "id": 9,
+      "title": "Goodfellas",
+      "release_date": "1990-09-19",
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 10,
+      "title": "The Silence of the Lambs",
+      "release_date": "1991-02-14",
+      "director": "Jonathan Demme"
+    },
+    {
+      "id": 11,
+      "title": "Jurassic Park",
+      "release_date": "1993-06-11",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 12,
+      "title": "Titanic",
+      "release_date": "1997-12-19",
+      "director": "James Cameron"
+    },
+    {
+      "id": 13,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "release_date": "2001-12-19",
+      "director": "Peter Jackson"
+    },
+    {
+      "id": 14,
+      "title": "Fight Club",
+      "release_date": "1999-10-15",
+      "director": "David Fincher"
+    },
+    {
+      "id": 15,
+      "title": "Avatar",
+      "release_date": "2009-12-18",
+      "director": "James Cameron"
+    },
+    {
+      "id": 16,
+      "title": "The Departed",
+      "release_date": "2006-10-06",
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 17,
+      "title": "Gladiator",
+      "release_date": "2000-05-05",
+      "director": "Ridley Scott"
+    },
+    {
+      "id": 18,
+      "title": "The Green Mile",
+      "release_date": "1999-12-10",
+      "director": "Frank Darabont"
+    },
+    {
+      "id": 19,
+      "title": "Saving Private Ryan",
+      "release_date": "1998-07-24",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 20,
+      "title": "Memento",
+      "release_date": "2000-09-05",
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 21,
+      "title": "The Pianist",
+      "release_date": "2002-09-06",
+      "director": "Roman Polanski"
+    },
+    {
+      "id": 22,
+      "title": "The Usual Suspects",
+      "release_date": "1995-08-16",
+      "director": "Bryan Singer"
+    },
+    {
+      "id": 23,
+      "title": "Reservoir Dogs",
+      "release_date": "1992-10-23",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "id": 24,
+      "title": "The Sixth Sense",
+      "release_date": "1999-08-06",
+      "director": "M. Night Shyamalan"
+    },
+    {
+      "id": 25,
+      "title": "Casino",
+      "release_date": "1995-11-22",
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 26,
+      "title": "A Beautiful Mind",
+      "release_date": "2001-12-21",
+      "director": "Ron Howard"
+    },
+    {
+      "id": 27,
+      "title": "The Terminator",
+      "release_date": "1984-10-26",
+      "director": "James Cameron"
+    },
+    {
+      "id": 28,
+      "title": "Back to the Future",
+      "release_date": "1985-07-03",
+      "director": "Robert Zemeckis"
+    },
+    {
+      "id": 29,
+      "title": "The Shining",
+      "release_date": "1980-05-23",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 30,
+      "title": "Alien",
+      "release_date": "1979-05-25",
+      "director": "Ridley Scott"
+    },
+    {
+      "id": 31,
+      "title": "Die Hard",
+      "release_date": "1988-07-20",
+      "director": "John McTiernan"
+    },
+    {
+      "id": 32,
+      "title": "The Breakfast Club",
+      "release_date": "1985-02-15",
+      "director": "John Hughes"
+    },
+    {
+      "id": 33,
+      "title": "Rain Man",
+      "release_date": "1988-12-16",
+      "director": "Barry Levinson"
+    },
+    {
+      "id": 34,
+      "title": "E.T. the Extra-Terrestrial",
+      "release_date": "1982-06-11",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 35,
+      "title": "Blade Runner",
+      "release_date": "1982-06-25",
+      "director": "Ridley Scott"
+    },
+    {
+      "id": 36,
+      "title": "Full Metal Jacket",
+      "release_date": "1987-06-26",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 37,
+      "title": "Indiana Jones and the Raiders of the Lost Ark",
+      "release_date": "1981-06-12",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 38,
+      "title": "The Princess Bride",
+      "release_date": "1987-09-25",
+      "director": "Rob Reiner"
+    },
+    {
+      "id": 39,
+      "title": "Stand By Me",
+      "release_date": "1986-08-22",
+      "director": "Rob Reiner"
+    },
+    {
+      "id": 40,
+      "title": "Top Gun",
+      "release_date": "1986-05-16",
+      "director": "Tony Scott"
+    },
+    {
+      "id": 41,
+      "title": "Batman",
+      "release_date": "1989-06-23",
+      "director": "Tim Burton"
+    },
+    {
+      "id": 42,
+      "title": "When Harry Met Sally",
+      "release_date": "1989-07-21",
+      "director": "Rob Reiner"
+    },
+    {
+      "id": 43,
+      "title": "Dead Poets Society",
+      "release_date": "1989-06-02",
+      "director": "Peter Weir"
+    },
+    {
+      "id": 44,
+      "title": "Ghostbusters",
+      "release_date": "1984-06-08",
+      "director": "Ivan Reitman"
+    },
+    {
+      "id": 45,
+      "title": "The Color Purple",
+      "release_date": "1985-12-20",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 46,
+      "title": "The Social Network",
+      "release_date": "2010-10-01",
+      "director": "David Fincher"
+    },
+    {
+      "id": 47,
+      "title": "Black Swan",
+      "release_date": "2010-12-03",
+      "director": "Darren Aronofsky"
+    },
+    {
+      "id": 48,
+      "title": "The King's Speech",
+      "release_date": "2010-12-25",
+      "director": "Tom Hooper"
+    },
+    {
+      "id": 49,
+      "title": "Django Unchained",
+      "release_date": "2012-12-25",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "id": 50,
+      "title": "The Wolf of Wall Street",
+      "release_date": "2013-12-25",
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 51,
+      "title": "Interstellar",
+      "release_date": "2014-11-07",
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 52,
+      "title": "Mad Max: Fury Road",
+      "release_date": "2015-05-15",
+      "director": "George Miller"
+    },
+    {
+      "id": 53,
+      "title": "La La Land",
+      "release_date": "2016-12-09",
+      "director": "Damien Chazelle"
+    },
+    {
+      "id": 54,
+      "title": "Get Out",
+      "release_date": "2017-02-24",
+      "director": "Jordan Peele"
+    },
+    {
+      "id": 55,
+      "title": "A Star Is Born",
+      "release_date": "2018-10-05",
+      "director": "Bradley Cooper"
+    },
+    {
+      "id": 56,
+      "title": "Parasite",
+      "release_date": "2019-10-11",
+      "director": "Bong Joon-ho"
+    },
+    {
+      "id": 57,
+      "title": "1917",
+      "release_date": "2019-12-25",
+      "director": "Sam Mendes"
+    },
+    {
+      "id": 58,
+      "title": "Joker",
+      "release_date": "2019-10-04",
+      "director": "Todd Phillips"
+    },
+    {
+      "id": 59,
+      "title": "The Irishman",
+      "release_date": "2019-11-27",
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 60,
+      "title": "Once Upon a Time in Hollywood",
+      "release_date": "2019-07-26",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "id": 61,
+      "title": "Gone with the Wind",
+      "release_date": "1939-12-15",
+      "director": "Victor Fleming"
+    },
+    {
+      "id": 62,
+      "title": "Casablanca",
+      "release_date": "1942-11-26",
+      "director": "Michael Curtiz"
+    },
+    {
+      "id": 63,
+      "title": "Citizen Kane",
+      "release_date": "1941-05-01",
+      "director": "Orson Welles"
+    },
+    {
+      "id": 64,
+      "title": "The Wizard of Oz",
+      "release_date": "1939-08-25",
+      "director": "Victor Fleming"
+    },
+    {
+      "id": 65,
+      "title": "It's a Wonderful Life",
+      "release_date": "1946-12-20",
+      "director": "Frank Capra"
+    },
+    {
+      "id": 66,
+      "title": "Singin' in the Rain",
+      "release_date": "1952-04-11",
+      "director": "Stanley Donen"
+    },
+    {
+      "id": 67,
+      "title": "12 Angry Men",
+      "release_date": "1957-04-10",
+      "director": "Sidney Lumet"
+    },
+    {
+      "id": 68,
+      "title": "Ben-Hur",
+      "release_date": "1959-11-18",
+      "director": "William Wyler"
+    },
+    {
+      "id": 69,
+      "title": "Lawrence of Arabia",
+      "release_date": "1962-12-10",
+      "director": "David Lean"
+    },
+    {
+      "id": 70,
+      "title": "The Sound of Music",
+      "release_date": "1965-03-02",
+      "director": "Robert Wise"
+    },
+    {
+      "id": 71,
+      "title": "2001: A Space Odyssey",
+      "release_date": "1968-04-03",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 72,
+      "title": "The Graduate",
+      "release_date": "1967-12-21",
+      "director": "Mike Nichols"
+    },
+    {
+      "id": 73,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "release_date": "1975-11-21",
+      "director": "Milos Forman"
+    },
+    {
+      "id": 74,
+      "title": "Star Wars: Episode IV - A New Hope",
+      "release_date": "1977-05-25",
+      "director": "George Lucas"
+    },
+    {
+      "id": 75,
+      "title": "Apocalypse Now",
+      "release_date": "1979-08-15",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 76,
+      "title": "Raging Bull",
+      "release_date": "1980-12-19",
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 77,
+      "title": "The Exorcist",
+      "release_date": "1973-12-26",
+      "director": "William Friedkin"
+    },
+    {
+      "id": 78,
+      "title": "Chinatown",
+      "release_date": "1974-06-20",
+      "director": "Roman Polanski"
+    },
+    {
+      "id": 79,
+      "title": "Rocky",
+      "release_date": "1976-12-03",
+      "director": "John G. Avildsen"
+    },
+    {
+      "id": 80,
+      "title": "Annie Hall",
+      "release_date": "1977-04-20",
+      "director": "Woody Allen"
+    },
+    {
+      "id": 81,
+      "title": "The Deer Hunter",
+      "release_date": "1978-12-08",
+      "director": "Michael Cimino"
+    },
+    {
+      "id": 82,
+      "title": "Midnight Cowboy",
+      "release_date": "1969-05-25",
+      "director": "John Schlesinger"
+    },
+    {
+      "id": 83,
+      "title": "American Beauty",
+      "release_date": "1999-09-15",
+      "director": "Sam Mendes"
+    },
+    {
+      "id": 84,
+      "title": "The Pianist",
+      "release_date": "2002-09-06",
+      "director": "Roman Polanski"
+    },
+    {
+      "id": 85,
+      "title": "Million Dollar Baby",
+      "release_date": "2004-12-15",
+      "director": "Clint Eastwood"
+    },
+    {
+      "id": 86,
+      "title": "No Country for Old Men",
+      "release_date": "2007-11-09",
+      "director": "Joel and Ethan Coen"
+    },
+    {
+      "id": 87,
+      "title": "There Will Be Blood",
+      "release_date": "2007-12-26",
+      "director": "Paul Thomas Anderson"
+    },
+    {
+      "id": 88,
+      "title": "The Hurt Locker",
+      "release_date": "2009-06-26",
+      "director": "Kathryn Bigelow"
+    },
+    {
+      "id": 89,
+      "title": "Slumdog Millionaire",
+      "release_date": "2008-11-12",
+      "director": "Danny Boyle"
+    },
+    {
+      "id": 90,
+      "title": "The Artist",
+      "release_date": "2011-11-23",
+      "director": "Michel Hazanavicius"
+    },
+    {
+      "id": 91,
+      "title": "Moonlight",
+      "release_date": "2016-10-21",
+      "director": "Barry Jenkins"
+    },
+    {
+      "id": 92,
+      "title": "The Shape of Water",
+      "release_date": "2017-12-01",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "id": 93,
+      "title": "Green Book",
+      "release_date": "2018-11-16",
+      "director": "Peter Farrelly"
+    },
+    {
+      "id": 94,
+      "title": "Birdman",
+      "release_date": "2014-10-17",
+      "director": "Alejandro González Iñárritu"
+    },
+    {
+      "id": 95,
+      "title": "Spotlight",
+      "release_date": "2015-11-06",
+      "director": "Tom McCarthy"
+    },
+    {
+      "id": 96,
+      "title": "12 Years a Slave",
+      "release_date": "2013-10-18",
+      "director": "Steve McQueen"
+    },
+    {
+      "id": 97,
+      "title": "The Artist",
+      "release_date": "2011-11-23",
+      "director": "Michel Hazanavicius"
+    },
+    {
+      "id": 98,
+      "title": "The King's Speech",
+      "release_date": "2010-12-25",
+      "director": "Tom Hooper"
+    },
+    {
+      "id": 99,
+      "title": "Chicago",
+      "release_date": "2002-12-27",
+      "director": "Rob Marshall"
+    },
+    {
+      "id": 100,
+      "title": "Shakespeare in Love",
+      "release_date": "1998-12-11",
+      "director": "John Madden"
+    }
+  ]
+}
